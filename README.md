@@ -1,4 +1,5 @@
 ## Sentiment analysis using Streamlit and Hugging-Face🤗
+![Alt text](image.png)
 
 
 ## Project Specifications
