@@ -1,0 +1,2 @@
+piplibgtk2.0-dev
+libgl1-mesa-glx
