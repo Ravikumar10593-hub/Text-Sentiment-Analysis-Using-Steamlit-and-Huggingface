@@ -1,6 +1,7 @@
 ## Sentiment analysis using Streamlit and Hugging-Face🤗
-![Alt text](image.png)
+![Alt text](images/image.png)
 
+This project helps you to use ML models/pretrained LLM models for Sentiment analysis.
 
 ## Project Specifications
 
