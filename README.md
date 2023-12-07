@@ -36,6 +36,6 @@
   ```
   git clone https://github.com/Ravikumar10593-hub/Text-Sentiment-Analysis-Using-Steamlit-and-Huggingface.git
   ```
-- `pip install -r requirements_updated.txt`
+- `pip install -r requirements.txt`
 **_NOTE_** : Before doing pip install create a virtual env (Read [this](https://medium.com/dev-genius/no-more-airflow-mage-ai-%EF%B8%8F-cfbff09f5276) for step by step guide)
 - `streamlit run app_new.py`
