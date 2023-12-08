@@ -24,10 +24,10 @@ This project helps you to use ML models/pretrained LLM models for Sentiment anal
  ![UI Image](images/UI.png)
 
 - Models Dropdown:
-  ![](images/Models%20drop%20down.png)
+  ![model](images/Models%20drop%20down.png)
 
 - Working prototype:
-  ![](images/Comparison_of_all_model.gif)
+  ![prototype](images/Comparison_of_all_model.gif)
 
 
 
